@@ -3,7 +3,7 @@
 	"version": "0.1.0",
 	"description": "React component for simple vertical timeline creation",
 	"main": "build/index.js",
-	"repository": "https://github.com/",
+	"repository": "https://github.com/FelipeRosseti/component-vertical-timeline-to-react.git",
 	"author": {
 		"name": "Felipe Rosseti",
 		"email": "felipe@orbitdigital.com.br"
