@@ -1,5 +1,5 @@
 {
-	"name": "component-vertical-timeline-to-react",
+	"name": "component-vertical-timeline-react",
 	"version": "1.0.0",
 	"description": "React component for simple vertical timeline creation",
 	"main": "build/index.js",

@@ -1,4 +1,4 @@
-# component-vertical-timeline-to-react
+# component-vertical-timeline-react
 
 React component for simple vertical timeline creation
 
@@ -8,7 +8,7 @@ React component for simple vertical timeline creation
 To install as npm dependency
 
 ```sh
-npm install --save component-vertical-timeline-to-react
+npm install --save component-vertical-timeline-react
 ```
 
 ## License
